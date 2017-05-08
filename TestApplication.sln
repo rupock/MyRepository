@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApplication", "TestApplication\TestApplication.csproj", "{3457FC7B-2E96-491C-962A-C0C4F09CCE9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{C35B2C22-98A0-43BC-8C37-C0D7030D211E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismInCharp", "PolymorphismInCharp\PolymorphismInCharp.csproj", "{A7CB7273-2593-45CC-81E2-23B949D0B829}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{3457FC7B-2E96-491C-962A-C0C4F09CCE9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3457FC7B-2E96-491C-962A-C0C4F09CCE9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3457FC7B-2E96-491C-962A-C0C4F09CCE9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C35B2C22-98A0-43BC-8C37-C0D7030D211E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35B2C22-98A0-43BC-8C37-C0D7030D211E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35B2C22-98A0-43BC-8C37-C0D7030D211E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35B2C22-98A0-43BC-8C37-C0D7030D211E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7CB7273-2593-45CC-81E2-23B949D0B829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CB7273-2593-45CC-81E2-23B949D0B829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CB7273-2593-45CC-81E2-23B949D0B829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CB7273-2593-45CC-81E2-23B949D0B829}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
