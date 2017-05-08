@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TestApplication
 {
@@ -10,6 +6,13 @@ namespace TestApplication
     {
         static void Main(string[] args)
         {
-        }
+            Console.WriteLine("Welcome");
+            Console.WriteLine($"What is your name?");
+    
+            var input = Console.ReadLine();
+           
+          
+            Console.WriteLine($"Hello " + input+"!");
+        } 
     }
 }
