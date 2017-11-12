@@ -15,7 +15,7 @@ namespace TestApplication
          
             Console.WriteLine("\nGodbye now");
 
-           Console.Beep()
+           Console.Beep();
 
         }
     }
